@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/seek_bar_title"
+        android:title="Adjust Volume" />
+    <item
+        android:id="@+id/vibrate_setting"
+        android:title="Vibrate"
+        app:actionLayout="@layout/action_view_switch" />
+
+    <item
+        android:id="@+id/voice_alert"
+        android:title="Voice Alert"
+
+        app:actionLayout="@layout/action_view_switch" />
+
+    <item
+        android:id="@+id/alert_msg"
+        android:title="Push Notification"
+        app:actionLayout="@layout/action_view_switch" />
+
+</menu>

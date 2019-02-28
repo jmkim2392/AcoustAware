@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AcoustAware.iml" filepath="$PROJECT_DIR$/AcoustAware.iml" />
+      <module fileurl="file://C:\gitrootAndroid\android_project\AcoustAware.iml" filepath="C:\gitrootAndroid\android_project\AcoustAware.iml" />
+      <module fileurl="file://C:\gitRootAndroid\AcoustAware\android_project.iml" filepath="C:\gitRootAndroid\AcoustAware\android_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
